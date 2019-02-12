@@ -1,0 +1,7 @@
+<html>
+<body>
+    <h1>Welcome to Quality Kiosk</h1>
+    <p>Hey Shraddha Here</p>
+
+</body>
+</html>
